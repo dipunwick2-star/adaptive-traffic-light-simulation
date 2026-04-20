@@ -57,7 +57,7 @@ The following metrics are tracked across all simulation runs:
 
 ```
 ├── README.md
-├── final_project.ipynb                    # Main simulation source code
+├── project_final.ipynb                    # Main simulation source code
 └── A_Simulation_Study_on_Adaptive_Traffic_Light_Control.docx  # Full report
 ```
 
